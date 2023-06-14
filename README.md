@@ -6,10 +6,10 @@ Develop a Settlement Bot that will go to the payment settlement file portal to d
 
 Hints:-
 
-Go to the settlement file portal to fill in your details and download the files needed.
-Unzip the folder to reveal each file.
-Perform string manipulation for each text file to get the details needed.
-Paste details in an excel with headers (Account Number, Amount, and Reference Number)
+- Go to the settlement file portal to fill in your details and download the files needed.
+- Unzip the folder to reveal each file.
+- Perform string manipulation for each text file to get the details needed.
+- Paste details in an excel with headers (Account Number, Amount, and Reference Number)
 
 Concepts you will learn:
 
