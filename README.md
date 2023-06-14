@@ -2,7 +2,7 @@
 Challenge #3
 Payment Settlement Bot
 
-Develop a Settlement Bot that will go to the payment settlement file portal to download the report for the day; Unzip the folder; Open the .txt files in the folder; Get the important details needed such as the account number (the first 10 digits), amount (the second digit under the account number), and the reference number (the last random text after the date); Finally, paste this details in an excel and send as an email attachment to starschallenge@stardex.com.ng.
+Develop a Settlement Bot that will go to the payment settlement file portal to download the report for the day; Unzip the folder; Open the .txt files in the folder; Get the important details needed such as the account number (the first 10 digits), amount (the second digit under the account number), and the reference number (the last random text after the date); 
 
 Hints:-
 
