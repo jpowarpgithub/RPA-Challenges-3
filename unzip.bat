@@ -1,0 +1,1 @@
+"C:\Program Files\WinRAR\UnRAR.exe" x "C:\Users\prithviraj\OneDrive\Documents\UiPath\RPA challenge 3\Transaction as at 13 May 2022.rar" "C:\Users\prithviraj\OneDrive\Documents\UiPath\RPA challenge 3\data"
